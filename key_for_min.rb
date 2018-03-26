@@ -8,6 +8,6 @@ def key_for_min_value(name_hash)
      if value =< temp_value 
       temp_key = key
     end 
-  end 
   return temp_key
+end
 end
